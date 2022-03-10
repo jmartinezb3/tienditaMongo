@@ -1,10 +1,11 @@
 {
-  "name": "tienditaMongo",
+  "name": "tienda",
   "version": "1.0.0",
   "description": "Sistema de Facturacion",
   "main": "servidor.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node servidor.js"
   },
   "author": "Guillermo Pizarro",
   "license": "GPL-3.0",
