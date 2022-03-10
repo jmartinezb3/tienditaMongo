@@ -1,5 +1,5 @@
 {
-  "name": "tienda",
+  "name": "tienditaMongo",
   "version": "1.0.0",
   "description": "Sistema de Facturacion",
   "main": "servidor.js",
